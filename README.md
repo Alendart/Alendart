@@ -1,8 +1,11 @@
-### Hi 👋, I'm Pawel Baraniak!
+<h1>Hi there 👋, I'm Pawel Baraniak</h1>
 
+###
 
+<strong>I am a self-taught full-stack JavaScript developer. I have been learning independently since the beginning of 2022 and am constantly trying to develop myself.</strong>
 
-#### I am a self-taught full-stack JavaScript developer. I have been learning independently since the beginning of 2022 and am constantly trying to develop myself.
+###
+
 
 
 🔭 I’m currently working on  2D Survivor Game in Godot
@@ -19,15 +22,22 @@
 
 
 #### Programing languages:
+
 [![My Skills](https://skillicons.dev/icons?i=js,ts,godot,cs)](https://skillicons.dev)
 
 
 #### Libraries and technologies:
+
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,nodejs,css,express,git,html,jest,react&perline=4)](https://skillicons.dev)
 
 #### Databases:
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql)](https://skillicons.dev)
 
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alendart&locale=en&layout=compact&&theme=dark" height="150" alt="language graph"/>
+  <img src="https://streak-stats.demolab.com?user=alendart&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
 
 <!--
