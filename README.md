@@ -1,4 +1,33 @@
-### Hi there 👋, I'm Pawel Baraniak
+### Hi 👋, I'm Pawel Baraniak!
+
+
+
+#### I am a self-taught full-stack JavaScript developer. I have been learning independently since the beginning of 2022 and am constantly trying to develop myself.
+
+
+🔭 I’m currently working on  2D Survivor Game in Godot
+
+🌱 I’m currently learning Godot and GDScript
+
+👨‍💼 All my projects are here on GitHub
+
+📫 How to reach me:
+<ul>
+<li><a href="https://www.linkedin.com/in/paweł-baraniak/">LinkedIn</a></li>
+<li><a href="mailto:pawel.t.baraniak@gmail.com">pawel.t.baraniak@gmail.com</a></li>
+</ul>
+
+
+#### Programing languages:
+[![My Skills](https://skillicons.dev/icons?i=js,ts,godot,cs)](https://skillicons.dev)
+
+
+#### Libraries and technologies:
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,nodejs,css,express,git,html,jest,react&perline=4)](https://skillicons.dev)
+
+#### Databases:
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql)](https://skillicons.dev)
+
 
 
 <!--
