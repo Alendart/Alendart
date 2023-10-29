@@ -8,9 +8,9 @@
 
 
 
-🔭 I’m currently working on  2D Survivor Game in Godot
+🔭 I’m currently working on  BuildYourVillage in Godot. My own 2D game!
 
-🌱 I’m currently learning Godot and GDScript
+🌱 I’m currently learning Game Development
 
 👨‍💼 All my projects are here on GitHub
 
