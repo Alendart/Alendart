@@ -15,9 +15,11 @@ Now, I'm a data analyst in a Polish company working in Power BI. In private time
 
 👨‍💼 All my projects are here on GitHub
 
+
+
 📫 How to reach me:
 <ul>
-<li><a href="https://www.linkedin.com/in/paweł-baraniak/">LinkedIn</a></li>
+<li><a href="https://www.linkedin.com/in/pawel-baraniak/">LinkedIn</a></li>
 <li><a href="mailto:pawel.t.baraniak@gmail.com">pawel.t.baraniak@gmail.com</a></li>
 </ul>
 
