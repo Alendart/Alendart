@@ -2,15 +2,16 @@
 
 ###
 
-<strong>I am a self-taught full-stack JavaScript developer. I have been learning independently since the beginning of 2022 and am constantly trying to develop myself.</strong>
+<strong>I am a self-taught programmer. I have been learning independently since the beginning of 2022 and constantly try to develop myself. I started by learning C#, then made a huge course based on Javascript! 
+Now, I'm a data analyst in a Polish company working in Power BI. In private time I try to code my first game!</strong>
 
 ###
 
 
 
-🔭 I’m currently working on  BuildYourVillage in Godot. My own 2D game!
+🔭 I’m currently working on my 2D game!
 
-🌱 I’m currently learning Game Development
+🌱 I’m currently learning Python, Data Science, and game development
 
 👨‍💼 All my projects are here on GitHub
 
@@ -23,15 +24,18 @@
 
 #### Programing languages:
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,godot,cs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,ts,godot,cs)](https://skillicons.dev)
 
 
 #### Libraries and technologies:
 
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,nodejs,css,express,git,html,jest,react&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=azure,bootstrap,nodejs,css,express,git,html,jest,react&perline=4)](https://skillicons.dev)
 
 #### Databases:
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql)](https://skillicons.dev)
+
+#### I usually code in:
+[![My Skills](https://skillicons.dev/icons?i=vscode,webstorm)](https://skillicons.dev)
 
 
 <div align="center">
